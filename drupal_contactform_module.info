@@ -1,0 +1,5 @@
+name = Drupal Contactform Module
+description = Contactform Module and retrieving the data from database
+dependencies[]=flag(3.x)
+core=7.x
+package=Contactform
